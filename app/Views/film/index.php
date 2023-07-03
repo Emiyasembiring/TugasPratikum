@@ -25,7 +25,7 @@ echo $this->section("content"); ?>
                     <th>Genre</th>
                     <th>Duration</th>
                     <th>Action</th>
-                    <th>Action</th>
+                   
                     
                 </tr>
 
