@@ -4,7 +4,7 @@
 
   <h1>Data Film</h1>
         <div class="row">
-            <?php foreach ($semua_film as $film): ?>
+            <?php foreach ($semuafilm as $film): ?>
                 <div class="col-md-3">
                     <div class="card">
                         <img src="/img/<?= $film["cover"] ?>"class="card-img-top">
